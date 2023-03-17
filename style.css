@@ -1,5 +1,6 @@
 body {
     background-color: blue;
+    flex: auto;
 }
 h1 {
     background-color: purple;
